@@ -1,0 +1,49 @@
+body {
+  background-color:rgb(104, 188, 230); 
+  background-size: cover;
+  background-position: center;
+  font-family: Arial, sans-serif;
+}
+
+.main {
+  text-align: center;
+  margin-top: 50px;
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 20px;
+}
+
+h1 {
+  color: #0e0202;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-style: italic;
+}
+
+input[type="text"] {
+  width: 300px;
+  height: 30px;
+  margin-right: 10px;
+}
+
+button {
+  height: 30px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+button.delete {
+  background-color: #196086;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
