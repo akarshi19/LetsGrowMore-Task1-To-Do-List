@@ -1,5 +1,4 @@
-# LetsGrowMore-Task1-To-Do-List
-## To-Do List Web App
+# To-Do List Web App
 Demo:  https://akarshi19.github.io/LetsGrowMore-Task1-To-Do-List/     
 This is a simple To-Do List web app built using HTML, CSS, and JavaScript. It allows you to add and manage tasks in a user-friendly interface.   
 
